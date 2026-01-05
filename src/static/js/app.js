@@ -4,8 +4,9 @@ function App() {
         <Container>
             <Row className="mb-4">
                 <Col className="text-center">
-                    <h2>ToDo App</h2>
-                    <p className="text-muted">by Yugant Gotmare</p>
+                    <h3>
+                        <strong>ToDo App by Yugant Gotmare</strong>
+                    </h3>
                 </Col>
             </Row>
             <Row>
